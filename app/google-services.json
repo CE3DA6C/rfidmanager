@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119386610773",
+    "project_id": "rfid-manager-fb299",
+    "storage_bucket": "rfid-manager-fb299.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119386610773:android:ceefebe3d6289a7e12c8dc",
+        "android_client_info": {
+          "package_name": "com.example.rfidmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjOfyy0N5unhT51zzELrbqoDnrR8ZcI6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
